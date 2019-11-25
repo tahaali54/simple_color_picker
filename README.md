@@ -31,4 +31,4 @@ a library module containing very complex implementation of HSV color picker.
 
 ## Origin
 
-One of my projects had a requirement of showing a simple color picker and I couldn't find any Flutter plugins that implemented only this and I had to make tweaks here and there to build this simple color picker. Decided to publish my creation so it may benifit someone like me.
+One of my projects had a requirement of showing a simple color picker and I couldn't find any Flutter plugins that implemented only this and I had to make tweaks here and there to build this simple color picker. Decided to publish my creation so it may benefit someone like me.

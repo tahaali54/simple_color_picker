@@ -2,7 +2,7 @@ name: simple_color_picker
 description: A simple HSV color picker without any glitz or glamour.
 version: 0.0.1
 author: Syed Taha Ali
-homepage:
+homepage: https://github.com/tahaali54/simple_color_picker
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

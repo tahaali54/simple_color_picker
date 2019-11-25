@@ -1,7 +1,7 @@
 name: simple_color_picker
 description: A simple HSV color picker without any glitz or glamour. Renders a HSV color selection sheet.
 version: 1.0.0
-author: Syed Taha Ali tahaali54@gmail.com
+author: Syed Taha Ali <tahaali54@gmail.com>
 homepage: https://github.com/tahaali54/simple_color_picker
 
 environment:

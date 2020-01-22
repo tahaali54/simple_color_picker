@@ -1,6 +1,10 @@
 # simple_color_picker
 
-A simple HSV color picker without any glitz or glamour.
+Flutter Package </br>
+[![pub package](https://img.shields.io/badge/pub-v1.0.0-blue)](https://pub.dev/packages/simple_color_picker) </br>
+
+A simple HSV color picker without any glitz or glamour. </br>
+
 
 ## Sample
 

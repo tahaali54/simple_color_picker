@@ -222,7 +222,7 @@ class _PalettePickerState extends State<_PalettePicker> {
 }
 
 class _PalettePainter extends CustomPainter {
-  _PalettePainter({Key key, this.ratio}) : super();
+  _PalettePainter({this.ratio}) : super();
 
   final Offset ratio;
 
